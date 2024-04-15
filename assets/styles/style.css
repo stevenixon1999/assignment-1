@@ -39,7 +39,7 @@ body{font-family:"Inter", Helvetica, sans-serif;font-weight: 400;color: #1B3459;
 }
 
 /* Banner */
-.banner-main-wrap{background: url(./assets/images/banner-gradient.png) center center no-repeat;background-size: cover;padding: 150px 0;}
+.banner-main-wrap{background: url(../images/banner-gradient.png) center center no-repeat;background-size: cover;padding: 150px 0;}
 .banner .inner-content{max-width: 300px;}
 .banner .title{font-size: 64px;line-height: 80px;font-weight: 700;color: #FFFCF4;text-align: right; margin: 0 0 10px 0;}
 .banner p{font-size: 48px;line-height: 58px;font-weight: 500;color:#FFFCF4 ;text-align: right;}
